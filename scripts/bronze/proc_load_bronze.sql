@@ -1,3 +1,6 @@
+/*
+Load data to bronze layer
+*/
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
 	BEGIN TRY
